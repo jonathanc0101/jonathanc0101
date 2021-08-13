@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Jonathan Cavia
-- I'm interested in microcontrollers (C,Arduino/C++) , gardening 🌱, high level programming (python, R, VB.NET), making visual programs in P5.js 🎆. 
+- I'm interested in microcontrollers (C,Arduino/C++) , gardening 🌱, high level programming (python, R, VB.NET), and making visual programs in P5.js 🎆. 
 - 🌱 I'm currently learning how to automate an indoor garden and how to program in R.
 - 💞️ I'm looking to collaborate on microcontroller projects, hydrophonics, high level programming with local relational databases.
 
