@@ -1,4 +1,4 @@
-I'm Jonathan Cavia, just some random dude doing some random things. 
+I'm Jonathan Cavia, just some random dude doing some not so random things. 
 
 I like microcontrollers, gardening, making artistic visual representations of code, making a js framework a day to keep the bad doctor away (what?) and high level programming (because I hate assembly (not rly)).
 
